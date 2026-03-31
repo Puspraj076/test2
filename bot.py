@@ -271,4 +271,4 @@ async def stop(ctx):
     await ctx.send("🛑 **DDoS stopped successfully.**")
 # ===========================================
 
-bot.run(TOKEN)
+bot.run(MTQ4ODY3MDMxOTU4NDYwODQyOA.Gyf2d-.RJjKv5SxnAzGrFufroWCGlw5GpITICR3HSk97k)
